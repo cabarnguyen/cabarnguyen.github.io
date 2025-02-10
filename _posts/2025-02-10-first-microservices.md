@@ -12,7 +12,7 @@ Node.js is network orientated and high performance, making it well suited to bui
 
 Node.js is open source, and you can find the code for it on GitHub at [https://github.com/nodejs/node](https://github.com/nodejs/node).
 
- Npm is the Node Package Manager. It’s a command-line application that talks to the npm repository online and allows you to manage third-party packages in your Node.js project. Installing a readily available package is a fast way to solve a problem you’d otherwise have to write more code to achieve! You can search for packages on the npm website at [www.npmjs.com](www.npmjs.com)
+ Npm is the Node Package Manager. It’s a command-line application that talks to the npm repository online and allows you to manage third-party packages in your Node.js project. Installing a readily available package is a fast way to solve a problem you’d otherwise have to write more code to achieve! You can search for packages on the npm website at [www.npmjs.com](https://www.npmjs.com)
 
 We might extract the code to a separate Node.js project to isolate the problem and make it easier to solve
 [https://www.data-forge-notebook.com/](https://www.data-forge-notebook.com/)
