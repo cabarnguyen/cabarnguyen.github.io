@@ -35,7 +35,6 @@ Acted as Tech Lead, explaining management requirements to team members.
 - Set up a Docker Compose environment for development.
 - Deployed the system to Azure
 - Managed and assigned tasks to the team.
----
 
 **PITO Catering** | NestJS, MySQL
 
@@ -45,6 +44,7 @@ Redesigned the database and migrated data from PHP Laravel to NestJS.
 - Converted the entire project from PHP Laravel to NestJS.
 - Wrote technical documentation.
 - Used Python for data migration.
+
 #### Senior Developer at DI Central
 December 2021 — November 2022
 
@@ -53,7 +53,7 @@ December 2021 — November 2022
 - Developed and maintained project features.
 - Wrote unit tests.
 - Integrated BKAV E-Invoice.
----
+
 **PIM** | API
 
 - Implemented authentication for marketplace platforms.
