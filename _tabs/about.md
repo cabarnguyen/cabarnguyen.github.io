@@ -36,7 +36,7 @@ Acted as Tech Lead, explaining management requirements to team members.
 - Managed and assigned tasks to the team.
 ---
 
-***PITO Catering*** | NestJS, MySQL
+**PITO Catering** | NestJS, MySQL
 Redesigned the database and migrated data from PHP Laravel to NestJS.
 
 - Redesigned the database
@@ -46,7 +46,7 @@ Redesigned the database and migrated data from PHP Laravel to NestJS.
 #### Senior Developer at DI Central
 December 2021 — November 2022
 
-**DICatalog, DIInvoice*** | Asp.Net MVC, SQL Server, IOC Autofac, Quartz
+**DICatalog, DIInvoice** | Asp.Net MVC, SQL Server, IOC Autofac, Quartz
 - Developed and maintained project features.
 - Wrote unit tests.
 - Integrated BKAV E-Invoice.
