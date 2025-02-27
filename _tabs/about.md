@@ -25,6 +25,7 @@ I am also passionate about learning new technologies and best practices to conti
 November 2022 — December 2023
 
 **DataPeach (ETL)** | Python(Fast API), MongoDB, Apache Pulsar, RabbitMQ, Docker, MySQL.
+
 Designed a system that listens for signals via Apache Pulsar, allowing users to configure data conversion and receive notifications for issues.
 Acted as Tech Lead, explaining management requirements to team members.
 
@@ -37,6 +38,7 @@ Acted as Tech Lead, explaining management requirements to team members.
 ---
 
 **PITO Catering** | NestJS, MySQL
+
 Redesigned the database and migrated data from PHP Laravel to NestJS.
 
 - Redesigned the database
@@ -47,11 +49,13 @@ Redesigned the database and migrated data from PHP Laravel to NestJS.
 December 2021 — November 2022
 
 **DICatalog, DIInvoice** | Asp.Net MVC, SQL Server, IOC Autofac, Quartz
+
 - Developed and maintained project features.
 - Wrote unit tests.
 - Integrated BKAV E-Invoice.
 ---
 **PIM** | API
+
 - Implemented authentication for marketplace platforms.
 - Integrated category, variant, and product listing from platforms such as eBay, Amazon, Mirakl, Shopify, Target Plus, and Magento.
 
