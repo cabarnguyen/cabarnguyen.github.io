@@ -1,6 +1,6 @@
 ---
 title: "Cockroach workload"
-date: 2025-03-021 00:00:00 +0800
+date: 2025-03-21 00:00:00 +0800
 categories: [Cockroach]
 tags: [cockroach, workload]
 ---
