@@ -22,7 +22,7 @@ cockroach workload init movr "postgresql://root@localhost:26257?sslmode=disable"
 ### Step 3: Connect via Terminal
 To connect to the CockroachDB instance, use:
 ```bash
-cockroach start-single-node --insecure
+cockroach sql --insecure --host=127.0.0.1
 ```
 
 For more details, refer to the [link reference](https://www.cockroachlabs.com/docs/v21.1/cockroach-workload).
