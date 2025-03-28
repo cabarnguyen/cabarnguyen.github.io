@@ -26,3 +26,9 @@ cockroach sql --insecure --host=127.0.0.1
 ```
 
 For more details, refer to the [link reference](https://www.cockroachlabs.com/docs/v21.1/cockroach-workload).
+
+## Cockroach on windown and connect via WLS
+
+```bash
+cockroach.exe start-single-node --insecure --listen-addr=172.26.176.1:26257 --http-addr=172.26.176.1:8080
+```
